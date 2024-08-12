@@ -1,4 +1,4 @@
-## 1장 완료.  Next.js App Router Course - Starter
+## 6장 진행중 Postgres 데이터베이스 생성. Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 

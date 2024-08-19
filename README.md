@@ -1,4 +1,4 @@
-## Next.js App Router Course - Starter
+## 9 장 완료. Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
